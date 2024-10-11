@@ -15,13 +15,15 @@ Hipótese 3:A precipitação média diária não tem correlação com os focos d
 
 Fonte de dados:
 Dados de queimadas disponibilizados pelo INPE:
-Obtido em: https://terrabrasilis.dpi.inpe.br/queimadas/bdqueimadas/#exportar-dados
-Disponível em: https://terrabrasilis.dpi.inpe.br/queimadas/bdqueimadas/#exportar-dados
+Obtidos em: [INPE 1](https://terrabrasilis.dpi.inpe.br/queimadas/bdqueimadas/#exportar-dados) e [INPE 2](https://terrabrasilis.dpi.inpe.br/queimadas/bdqueimadas/#exportar-dados)
 
 Ferramentas:
-Google colab;
+Google colab; 
 Python;
-Bibliotecas: Pandas, Seaborn, Matplotlib, warnings
+Tableau [Clique aqui](https://public.tableau.com/app/profile/pollianna.ferraz/viz/ProjetoFinalPollieNara/VisoGeral)
+e Canvas  [Clique aqui](https://www.canva.com/design/DAGSkLrZK8o/wIPkHZLZx-uaaT2MWCj5oA/edit?utm_content=DAGSkLrZK8o&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+
+Bibliotecas: Pandas, Seaborn, Matplotlib, Scipy.
 
 
 
