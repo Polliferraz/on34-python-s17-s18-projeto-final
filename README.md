@@ -7,11 +7,13 @@ Objetivo Geral:
 Analisar a correlação entre a ocorrência de queimadas e fatores climáticos, como períodos sem chuva, precipitação, e a distribuição espacial das queimadas em diferentes biomas no Brasil, para os anos de 2022 e 2023.
 
 Hipóteses:
-Hipótese 1: Queimadas são mais frequentes em determinados biomas e variam de acordo com as estações do ano.
+Hipótese 1: Como as diferentes regiões e biomas do Brasil, junto com a variação das estações do ano, influenciam a frequência de focos de queimadas?
 
 Hipótese 2: A ocorrência de queimadas não tem influência do tamanho dos períodos de seca/sem precipitação.
 
 Hipótese 3:A precipitação média diária não tem correlação com os focos de queimadas, entre 2022 e 2023.
+
+Hipótese 3: Sobre a precipitação média diária e sua correlação com os focos de queimadas.
 
 Fonte de dados:
 Dados de queimadas disponibilizados pelo INPE:
